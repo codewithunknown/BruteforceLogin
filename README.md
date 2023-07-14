@@ -1,4 +1,4 @@
-# Teaching Platform Vulnerability and User Experience Feedback
+# Teaching Platform Vulnerability
 
 This repository contains details of a vulnerability discovered on the Teaching platform, as well as user experience feedback. The purpose of this repository is to provide comprehensive information about the vulnerability and its potential impact.
 
